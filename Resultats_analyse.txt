@@ -1,0 +1,4 @@
+Champ Ethernet :
+	Adresse MAC Destination : ff:ff:ff:ff:ff:ff
+	Adresse MAC Source : 08:00:20:02:45:9e
+	Type : 0x0806 (ARP)
